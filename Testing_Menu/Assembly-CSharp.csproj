@@ -54,7 +54,8 @@
      <Compile Include="Assets\DemoAssets\Scripts\SceneChange.cs" />
      <Compile Include="Assets\DemoAssets\Scripts\TouchInput.cs" />
      <Compile Include="Assets\Scripts\Fading.cs" />
-     <Compile Include="Assets\UIManagerScript.cs" />
+     <Compile Include="Assets\Scripts\LessonManagerScript.cs" />
+     <Compile Include="Assets\Scripts\UIManagerScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.2/UnityEngine.UI.dll</HintPath>
  </Reference>
