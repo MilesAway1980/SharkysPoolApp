@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UIManagerScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LessonManagerScript.cs">
     <Files>
-      <File FileName="Assets/UIManagerScript.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\UIManagerScript.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\LessonManagerScript.cs" Line="20" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
